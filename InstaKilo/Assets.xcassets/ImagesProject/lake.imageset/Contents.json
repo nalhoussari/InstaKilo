@@ -5,9 +5,16 @@
     },
     {
       "idiom" : "universal",
-      "filename" : "1413823428-amazingly-free-stock-websites.jpg",
-      "unassigned" : true,
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1413823428-amazingly-free-stock-websites.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {

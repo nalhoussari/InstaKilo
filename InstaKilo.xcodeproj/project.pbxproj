@@ -13,6 +13,7 @@
 		7C13DE1A1EF19569000ECCE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C13DE181EF19569000ECCE6 /* Main.storyboard */; };
 		7C13DE1C1EF19569000ECCE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C13DE1B1EF19569000ECCE6 /* Assets.xcassets */; };
 		7C13DE1F1EF19569000ECCE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C13DE1D1EF19569000ECCE6 /* LaunchScreen.storyboard */; };
+		7C13DE281EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C13DE271EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		7C13DE1B1EF19569000ECCE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C13DE1E1EF19569000ECCE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C13DE201EF19569000ECCE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C13DE261EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionCellCollectionViewCell.h; sourceTree = "<group>"; };
+		7C13DE271EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionCellCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				7C13DE131EF19569000ECCE6 /* AppDelegate.m */,
 				7C13DE151EF19569000ECCE6 /* ViewController.h */,
 				7C13DE161EF19569000ECCE6 /* ViewController.m */,
+				7C13DE261EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.h */,
+				7C13DE271EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.m */,
 				7C13DE181EF19569000ECCE6 /* Main.storyboard */,
 				7C13DE1B1EF19569000ECCE6 /* Assets.xcassets */,
 				7C13DE1D1EF19569000ECCE6 /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C13DE281EF1AE50000ECCE6 /* CollectionCellCollectionViewCell.m in Sources */,
 				7C13DE171EF19569000ECCE6 /* ViewController.m in Sources */,
 				7C13DE141EF19569000ECCE6 /* AppDelegate.m in Sources */,
 				7C13DE111EF19569000ECCE6 /* main.m in Sources */,
