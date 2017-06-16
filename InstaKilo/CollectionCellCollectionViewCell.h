@@ -10,4 +10,6 @@
 
 @interface CollectionCellCollectionViewCell : UICollectionViewCell
 
+@property (weak, nonatomic) IBOutlet UIImageView *photoImage;
+
 @end

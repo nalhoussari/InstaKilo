@@ -10,4 +10,6 @@
 
 @interface Header : UICollectionReusableView
 
+//label property in here
+@property (weak, nonatomic) IBOutlet UILabel *sectionLabel;
 @end
